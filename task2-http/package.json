@@ -1,0 +1,11 @@
+{
+  "name": "task2-http",
+  "version": "1.0.0",
+  "description": "Task2",
+  "main": "server_task2.js",
+  "scripts": {
+    "test": "git repository, keywords"
+  },
+  "author": "Shandira",
+  "license": "ISC"
+}
